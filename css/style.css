@@ -6,7 +6,12 @@
 }
 /* COMMON */
 .container {
-    margin-left: 1%;
+    width: 95%;
+    margin: auto;
+}
+.written {
+    font-size: 25px;
+    margin-top: 25px;
 }
 /* HEADER */
 header {
@@ -16,4 +21,17 @@ header {
 header img {
     width: 20%;
     margin-top: 5%;
+}
+/* MAIN */
+main h1 {
+    font-size: 70px;
+}
+#author {
+    color: #4bb9ea;
+}
+main img {
+    height: 600px;
+}
+main ul {
+    width: 80%;
 }
