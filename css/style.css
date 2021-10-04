@@ -42,12 +42,18 @@ main ul {
 }
 /* table */
 table {
-    text-align: center;
     border-collapse: collapse;
 }
 thead {
+    text-align: left;
     color: white;
     background-color: #20a9e5;
+}
+.w-50{
+    width: 50%;
+}
+.w-25{
+    width: 25%;
 }
 .lightblue {
     background-color: #b1e5f2;
