@@ -10,8 +10,11 @@
     margin: auto;
 }
 .written {
-    font-size: 25px;
+    font-size: 20px;
     margin-top: 25px;
+}
+.highlighted {
+    background-color: #fefe00;
 }
 /* HEADER */
 header {
@@ -33,5 +36,18 @@ main img {
     height: 600px;
 }
 main ul {
+    margin-left: 20px;
     width: 80%;
+}
+/* table */
+table {
+    text-align: center;
+    border-collapse: collapse;
+}
+thead {
+    color: white;
+    background-color: #20a9e5;
+}
+.lightblue {
+    background-color: #b1e5f2;
 }
